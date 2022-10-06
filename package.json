@@ -1,0 +1,29 @@
+{
+  "name": "xml-tools",
+  "version": "0.0.1",
+  "description": "All the required tools to serialize and deserialize XML in TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brignano/xml-tools.git"
+  },
+  "keywords": [
+    "xml"
+  ],
+  "author": "Anthony Brignano <hi@brignano.io>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/brignano/xml-tools/issues"
+  },
+  "homepage": "https://github.com/brignano/xml-tools#readme",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "prettier": "^2.7.1"
+  }
+}
